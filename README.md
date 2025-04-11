@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="profile.png" width="500" height="200"/>
+  <img src="profile.png" width="400"/>
 </div>
 
 <hr> 
